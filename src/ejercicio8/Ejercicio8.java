@@ -12,7 +12,7 @@ el último digito es 6 el programa debe decir si el primero es divisible por el 
  */
 package ejercicio8;
 
-import java.util.Scanner;
+import java.util.Scanner;       //Teclado
 
 public class Ejercicio8 {
 
